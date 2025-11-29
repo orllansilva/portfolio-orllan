@@ -12,6 +12,7 @@ Olá! sou Orllan. Este repositório reúne exemplos curtos que demonstram meu tr
 - `exemplo_troubleshooting.md` — playbook/checklist para investigação de incidentes
 - `exemplo_python_validacao.py` — script para validação simples de CSV (ex.: conferência de integridade)
 - `exemplo_groovy_sample.groovy` — snippet Groovy de exemplo (modelo de script de automação)
+- `exemplo_mapeamento_case.sql
 
 ## Como usar
 - Os arquivos são exemplos práticos — sinta-se à vontade para abrir e revisar.
